@@ -1,6 +1,6 @@
-    bindsym --to-code $mod+t exec ~/superttranslator/wayland-translater-crow.sh
-    bindsym --to-code $mod+Shift+t exec "~/superttranslator/wayland-translater-crow.sh -y"
-    bindsym --to-code $mod+Control+t exec "~/superttranslator/wayland-translater-crow.sh -c"
-    bindsym --to-code $mod+Shift+Control+t exec "~/superttranslator/wayland-translater-crow.sh -c -y"
-    bindsym --to-code $mod+Shift+Alt+t exec "~/superttranslator/wayland-translater-crow.sh -r -y"
-    bindsym --to-code $mod+Alt+t exec "~/superttranslator/wayland-translater-crow.sh -r"
+    bindsym --to-code $mod+t exec ~/wayland-crow-translator/wayland-translater-crow.sh
+    bindsym --to-code $mod+Shift+t exec "~/wayland-crow-translator/wayland-translater-crow.sh -y"
+    bindsym --to-code $mod+Control+t exec "~/wayland-crow-translator/wayland-translater-crow.sh -c"
+    bindsym --to-code $mod+Shift+Control+t exec "~/wayland-crow-translator/wayland-translater-crow.sh -c -y"
+    bindsym --to-code $mod+Shift+Alt+t exec "~/wayland-crow-translator/wayland-translater-crow.sh -r -y"
+    bindsym --to-code $mod+Alt+t exec "~/wayland-crow-translator/wayland-translater-crow.sh -r"
